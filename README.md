@@ -27,3 +27,5 @@ This project classifies iris flowers into three species: **Setosa, Versicolor, V
 - The model can classify iris species with high precision.  
 
 ## Sample Prediction
+Predictions: [0 1 2 1 0]
+Actual: [0 1 2 1 0]
